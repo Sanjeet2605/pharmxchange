@@ -1,8 +1,9 @@
-# Hack36 team Nawabi na Ghate
+# Hack36 
 
 *Rishabh Maheshwari (B20063)*
 *Chandresh Soni   (B20284)*
 *Pratik Kamble   (B20106)*
+*Sanjeet Choudhary    (B20131)*
 
 ## Project Pharmxchange
 Sabak ek ko seekh hum sabko
